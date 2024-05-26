@@ -1,0 +1,19 @@
+body{
+    background-color: #021322;
+    color: white;
+    font-size: 24pt;
+}
+
+a{
+    color: white;
+}
+
+a:hover{
+    color: green;
+}
+
+table tbody tr td{
+    padding-bottom: 15px;
+    padding-right: 15px;
+}
+
